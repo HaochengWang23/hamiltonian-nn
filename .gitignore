@@ -10,3 +10,6 @@
 *.zip
 *.pkl
 __pycache__
+.codex
+.deps/
+.venv/
